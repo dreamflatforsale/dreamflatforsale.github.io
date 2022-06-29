@@ -2510,3 +2510,7 @@ figure{
   border-radius: 3px;
   text-transform: uppercase;
 }
+
+#html5-watermark {
+  display: none !important
+}
